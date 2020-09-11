@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "asdasd",
+      "description": "asdasd",
+      "id": 1
+    },
+    {
+      "title": "My First Stream",
+      "description": "Bitch Lasagna",
+      "id": 2
+    },
+    {
+      "title": "My Second Stream",
+      "description": "Bitch Lasagna 2.0",
+      "id": 3
+    },
+    {
+      "title": "asdasd",
+      "description": "asdasdasd",
+      "id": 6
+    },
+    {
+      "title": "component reuse",
+      "description": "EZPZasdasd",
+      "id": 7
+    },
+    {
+      "title": "asdasd",
+      "description": "asdasdasd",
+      "userId": "104345121096055396657",
+      "id": 8
+    }
+  ]
+}
