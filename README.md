@@ -1,4 +1,8 @@
 # json-server-streamy
 Used to store data for streamy app.
 
-Use <strong>npm start</strong> to run the server.
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
